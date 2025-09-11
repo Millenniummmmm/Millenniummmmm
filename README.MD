@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Otávio Joshua
+# 👋 Olá! Sou Otávio!
 
 ```
     ╭─────────────────────────────────────╮
@@ -29,30 +29,6 @@
 
 ---
 
-## 🎓 Sobre mim
-
-Sou estudante do 4º período de **Engenharia de Computação** na UFAL, com experiência prática em desenvolvimento de software e hardware. Atualmente trabalho em projetos que integram educação e tecnologia, sempre buscando soluções inovadoras e sustentáveis.
-
----
-
-## 💼 Experiência Profissional
-
-### 🔬 **Desenvolvedor de Software Educacional** | UFAL
-*Outubro 2024 - Presente*
-- Projeto: "Integrando Lógica Proposicional a Circuitos Digitais"
-- Desenvolvimento de aplicação interativa com **CustomTkinter (Python)**
-- Pesquisa e elaboração de artigo científico
-- **Orientador:** Prof. Dr. Evandro de Barros Costa
-
-### ⚡ **Desenvolvedor de Hardware** | Projeto ICOLETA - UFAL
-*Setembro 2024 - Presente*
-- Desenvolvimento de **lixeira inteligente** para sustentabilidade
-- Programação embarcada com **Arduino e ESP32**
-- Integração de sensores e geração de QR Codes
-- **Orientador:** Prof. Dr. Glauber Rodrigues Leite
-
----
-
 ## 🛠️ Stack Tecnológica
 
 ### Linguagens de Programação
@@ -75,24 +51,6 @@ Sou estudante do 4º período de **Engenharia de Computação** na UFAL, com exp
 ### Interfaces Gráficas
 - **Tkinter & CustomTkinter**
 - **Desenvolvimento de aplicações educativas**
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔌 **Lógica Proposicional + Circuitos Digitais**
-Aplicação interativa que ensina a relação entre lógica proposicional e circuitos digitais
-- **Tech:** Python, CustomTkinter
-- **Status:** Em desenvolvimento
-
-### 🗑️ **Lixeira Inteligente - ICOLETA**
-Sistema embarcado para descarte seletivo automatizado
-- **Tech:** Arduino, ESP32, Sensores IoT
-- **Status:** Prototipagem
-
-### 🗜️ **Algoritmo de Compressão de Huffman**
-Implementação do algoritmo clássico de compressão
-- **Tech:** Estruturas de dados, Algoritmos
 
 ---
 
@@ -121,29 +79,16 @@ interesses = {
 
 ---
 
-## 🌟 Soft Skills
-
-- 🗣️ **Inglês Avançado**
-- 👥 **Trabalho em Equipe**
-- ⏰ **Gestão de Prazos**
-- 🔄 **Adaptabilidade**
-- 💡 **Resolução Criativa de Problemas**
-- 🎯 **Proatividade**
-
----
-
-## 📍 Localização
-
-📍 **Maceió - Alagoas, Brasil**  
+ 
 📞 **(82) 98863-2978**
 
 ---
 
 <div align="center">
 
-### ✨ *"Sempre encontro um jeito de resolver."* ✨
+### 
 
-**🎓 4º período - Engenharia de Computação | UFAL**
+**🎓Engenharia de Computação**
 
 *Transformando ideias em código e hardware em soluções reais!*
 
