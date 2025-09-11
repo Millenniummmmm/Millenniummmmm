@@ -1,21 +1,11 @@
 # 👋 Olá! Sou Otávio!
 
-```
-    ╭─────────────────────────────────────╮
-    │  ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮  │
-    │  │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │  │
-    │  ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯  │
-    │  ╭───────────────────────────────╮  │
-    │  │ > Desenvolvendo o futuro...   │  │
-    │  │ > Uma linha de código por vez │  │
-    │  ╰───────────────────────────────╯  │
-    │  ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮ ╭─╮  │
-    │  │ │ │ │ │ │ │ │ │ │ │ │ │ │ │ │  │
-    │  ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯ ╰─╯  │
-    ╰─────────────────────────────────────╯
-```
-
 <div align="center">
+  <img src="assets/coding-setup.webp" alt="Coding Setup" width="400"/>
+</div>
+<div align="center">
+────────╯
+```
 
 **💻 Estudante de Engenharia de Computação na UFAL**  
 **🚀 Desenvolvedor de Software & Hardware**  
