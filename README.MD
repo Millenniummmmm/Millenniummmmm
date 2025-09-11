@@ -1,7 +1,7 @@
 # 👋 Olá! Sou Otávio!
 
 <div align="center">
-  <img src="assets/coding-setup.webp" alt="Coding Setup" width="400"/>
+  <img src="coding-setup.webp" alt="Coding Setup" width="400"/>
 </div>
 <div align="center">
 ────────╯
