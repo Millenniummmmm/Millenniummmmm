@@ -4,7 +4,6 @@
   <img src="coding-setup.webp" alt="Coding Setup" width="400"/>
 </div>
 <div align="center">
-────────╯
 ```
 
 **💻 Estudante de Engenharia de Computação na UFAL**  
@@ -71,18 +70,6 @@ interesses = {
 
  
 📞 **(82) 98863-2978**
-
----
-
-<div align="center">
-
-### 
-
-**🎓Engenharia de Computação**
-
-*Transformando ideias em código e hardware em soluções reais!*
-
-</div>
 
 ---
 
